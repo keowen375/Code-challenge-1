@@ -1,4 +1,4 @@
-# 3-code-challenge
+# 3Data Structures and algorythms.
 
 # Question One
 # Function Check if Balanced
