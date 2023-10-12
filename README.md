@@ -1,4 +1,4 @@
-# 3Data Structures and algorythms.
+# Data Structures and algorithms.
 
 # Question One
 # Function Check if Balanced
